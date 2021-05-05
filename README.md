@@ -16,7 +16,7 @@ This project was initiated as part of my Udacity Data Science Nano Degree Course
 
 The dataset used in this project was provided by [Figure Eight Inc.](https://en.wikipedia.org/wiki/Figure_Eight_Inc.). This dataset contains messages that were sent during disaster events via social media.
 The app uses a ML model to categorize any new messages received, and the repository also contains the code used to train the model and to prepare any new datasets for model training purposes.
-Within this project, data cleaning and model building steps were performed leveraging pipelines, GridSearch and process automation. The final model is used in a Flask Web App to enable end users to classify any (English) message against any related disaster event.
+Within this project, data cleaning and model building steps were performed leveraging pipelines, GridSearch and process automation. The final model is used in a Flask Web App to enable end users to classify any (English) message against any related disaster event. Using Pipeline approach to this project is one of the best things and 
 
 ## File Descriptions <a name ='files'></a>
 ### 1. ETL pipeline
@@ -37,6 +37,7 @@ The ML Pipeline performs the following steps:
 * test pipeline
 
 The ML Pipeline is available in this project as a .ipynb-file `.\JupyterWorkspace\ML Pipeline Preparation.ipynb` and as a .py-file `.\models\train_classifier.py`
+Easter Have Fun with this part. I certianly learned a lot new.
 
 ### 3. Flask Web App
 
@@ -64,4 +65,4 @@ The ML Pipeline is available in this project as a .ipynb-file `.\JupyterWorkspac
 ![Screenshot 4](https://github.com/Vishal7017/DisasterResponsePipeline/blob/main/Chart2.png)
 
 ### Licensing, Authors, and Acknowledgements <a name ='licensing'></a>
-Thanks for Udacity for this fun porject for building a Data Pipeline. The data is from Figure Eight and used with Udacity Nanodegree Program.
+Thanks for Udacity for this fun porject for building a Data Pipeline. The data is from Figure Eight and used with Udacity Nanodegree Program. It is very good to learn something and implement it on a project. I found myself going though lots of problems and finding thier solution and now I know where to look for accurate steps towards a resolve.
