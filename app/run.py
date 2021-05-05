@@ -1,3 +1,4 @@
+# First Start with the Packages
 import json
 import plotly
 import pandas as pd
@@ -10,7 +11,7 @@ from flask import render_template, request, jsonify
 from plotly.graph_objs import Bar
 from sqlalchemy import create_engine
 
-
+# Initializing Flask App
 app = Flask(__name__)
 
 def tokenize(text):
@@ -32,7 +33,7 @@ df = pd.read_sql_table('Messages', engine)
 model = joblib.load("../models/classifier.pkl")
 
 
-# index webpage displays cool visuals and receives user input text for model
+# starting webpage
 @app.route('/')
 @app.route('/index')
 

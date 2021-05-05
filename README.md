@@ -57,5 +57,11 @@ The ML Pipeline is available in this project as a .ipynb-file `.\JupyterWorkspac
 ***Screenshot 2: List Records***
 ![Screenshot 2](https://github.com/Vishal7017/DisasterResponsePipeline/blob/main/Sorted.png)
 
+***Screenshot 3: Visualize***
+![Screenshot 3](https://github.com/Vishal7017/DisasterResponsePipeline/blob/main/Chart1.png)
+
+***Screenshot 4: Display***
+![Screenshot 4](https://github.com/Vishal7017/DisasterResponsePipeline/blob/main/Chart2.png)
+
 ### Licensing, Authors, and Acknowledgements <a name ='licensing'></a>
 Thanks for Udacity for this fun porject for building a Data Pipeline. The data is from Figure Eight and used with Udacity Nanodegree Program.
