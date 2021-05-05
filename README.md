@@ -65,4 +65,4 @@ Easter Have Fun with this part. I certianly learned a lot new.
 ![Screenshot 4](https://github.com/Vishal7017/DisasterResponsePipeline/blob/main/Chart2.png)
 
 ### Licensing, Authors, and Acknowledgements <a name ='licensing'></a>
-Thanks for Udacity for this fun porject for building a Data Pipeline. The data is from Figure Eight and used with Udacity Nanodegree Program. It is very good to learn something and implement it on a project. I found myself going though lots of problems and finding thier solution and now I know where to look for accurate steps towards a resolve.
+Thanks for Udacity for this fun porject for building a Data Pipeline. The data is from Figure Eight and used with Udacity Nanodegree Program. It is very good to learn something and implement it on a project. I found myself going through lots of problems and finding their solutions and now I know where to look for accurate steps towards a resolve.Again Thanks.
