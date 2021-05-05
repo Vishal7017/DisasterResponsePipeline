@@ -47,7 +47,7 @@ The ML Pipeline is available in this project as a .ipynb-file `.\JupyterWorkspac
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`<br/>
 
   2. Run the following command in the app's directory to run your web app.<br/>
-    `python run.py`
+    `python app/run.py`
 
   3. Go to http://0.0.0.0:3001/ or to http://localhost:3001/
 
