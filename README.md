@@ -8,7 +8,7 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name ='installation'></a>
-The code contained in this repository was written in HTML and Python 3, and requires the following Python packages: json, plotly, pandas, nltk, flask, sklearn, sqlalchemy, sys, numpy, re, pickle, warnings. All packages can be installed with pip.
+The code contained in this repository was written in Javascript and Python 3, and requires the following Python packages: json, plotly, pandas, nltk, flask, sklearn, sqlalchemy, sys, numpy, re, pickle. All packages can be installed with pip.
 
 ## Project Motivation <a name ='motivation'></a>
 
